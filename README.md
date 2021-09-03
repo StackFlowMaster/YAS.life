@@ -19,8 +19,8 @@ This coding challenge is about creating a small react native application using R
 # Skill
 React Native, TypeScript, GraphQL (Apollo client), React navigation 5, Hooks, Integration testing is mandatory, iOS, Android
 
-<img src="1.png" width="30%" />
-<img src="2.png" width="30%" />
-<img src="3.png" width="30%" />
-<img src="4.png" width="30%" />
-<img src="5.png" width="30%" />
+<img src="1.PNG" width="30%" />
+<img src="2.PNG" width="30%" />
+<img src="3.PNG" width="30%" />
+<img src="4.PNG" width="30%" />
+<img src="5.PNG" width="30%" />
